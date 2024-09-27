@@ -9,7 +9,7 @@ import asyncio
 from base import add_basket, new_row, clear_basket, del_position, get_basket, new_order
 
 # Вставьте сюда ваш токен
-API_TOKEN = '7556339020:AAEloe-nvDTBpFw-4jv-RD6WgEryZiKzMBw'
+API_TOKEN = ''
 
 # Логирование
 # logging.basicConfig(level=logging.INFO)
